@@ -28,7 +28,7 @@ To answer that, I created a time-aware dataset that includes:
 
 ## 🔧 Tech Stack
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Python** (Pandas, NumPy, Matplotlib)
 - **Scikit-learn** (Ridge Regression, Cross-Validation, Pipelines)
 - **NBA API** (`nba_api`)
 - **Modeling Approach**: Ridge Regression
